@@ -4,5 +4,9 @@
   "description": "A sample service to test nsm",
   "main": "service.js",
   "author": "Christian Schwarz",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "http://github.com/cschwarz/nsm-sample-service.git"
+  }
 }
