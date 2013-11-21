@@ -1,6 +1,6 @@
 {
   "name": "nsm-sample-service",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A sample service to test nsm",
   "main": "service.js",
   "author": "Christian Schwarz",
